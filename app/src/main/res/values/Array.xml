@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gunjong">
+    <item>공군</item>
+    <item>해군</item>
+    <item>육군</item>
+</string-array>
+    <string-array name="gyugyup">
+        <item>이병</item>
+        <item>일병</item>
+        <item>상병</item>
+        <item>병장</item>
+    </string-array>
+
+    <string-array name="jungtyul">
+        <item>최신순</item>
+        <item>이름(내림차순)</item>
+        <item>이름(오름차순)</item>
+        <item>계급</item>
+        <item>종류</item>
+        <item>출타상태</item>
+    </string-array>
+
+    <string-array name="Dday">
+        <item>1</item>
+        <item>3</item>
+        <item>7</item>
+        <item>14</item>
+        <item>21</item>
+    </string-array>
+</resources>
